@@ -5,7 +5,7 @@ A single Bash script to create blogs.
 
 This version has a more modern dark theme.
 
-![](bashblog-dark.jpg)
+![](bashblog-dark-blue.jpg)
 
 The original script and more info:
 <https://github.com/cfenollosa/bashblog>
